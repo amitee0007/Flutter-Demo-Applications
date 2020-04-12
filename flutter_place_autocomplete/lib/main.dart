@@ -5,7 +5,7 @@ import 'package:flutter_google_places/flutter_google_places.dart';
 import 'package:flutter/material.dart';
 import 'addressModal.dart';
 
-const kGoogleApiKey = "AIzaSyBbZdUfgqxuM_J8_nv7Bjev1KnHTEZ9Uhc";
+const kGoogleApiKey = "ENTER_YOUR_API_HERE";
 
 GoogleMapsPlaces _places = GoogleMapsPlaces(apiKey: kGoogleApiKey);
 List<Address> data = [];
