@@ -1,7 +1,7 @@
 // import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_login/home.dart';
 import 'credentialModal.dart';
+import 'home.dart';
 
 class Login extends StatefulWidget {
   static const String routes = '/';
